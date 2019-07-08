@@ -1,0 +1,11 @@
+/Users/Ricky/front-end/C32/backend-workspace/book1/Lists/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.deps.json
+/Users/Ricky/front-end/C32/backend-workspace/book1/Lists/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.runtimeconfig.json
+/Users/Ricky/front-end/C32/backend-workspace/book1/Lists/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.runtimeconfig.dev.json
+/Users/Ricky/front-end/C32/backend-workspace/book1/Lists/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.dll
+/Users/Ricky/front-end/C32/backend-workspace/book1/Lists/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.pdb
+/Users/Ricky/front-end/C32/backend-workspace/book1/Lists/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.csprojAssemblyReference.cache
+/Users/Ricky/front-end/C32/backend-workspace/book1/Lists/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.csproj.CoreCompileInputs.cache
+/Users/Ricky/front-end/C32/backend-workspace/book1/Lists/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.AssemblyInfoInputs.cache
+/Users/Ricky/front-end/C32/backend-workspace/book1/Lists/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.AssemblyInfo.cs
+/Users/Ricky/front-end/C32/backend-workspace/book1/Lists/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.dll
+/Users/Ricky/front-end/C32/backend-workspace/book1/Lists/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.pdb
